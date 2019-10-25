@@ -1,4 +1,4 @@
-## PiauiJS
+# Sobre
 
 O JS Piauí surge como uma iniciativa de apoio ao desenvolvimento e difusão do conhecimento de JavaScript em seus mais variados casos de uso na comunidade piauiense.
 
